@@ -1,0 +1,45 @@
+Can i get some lumber,ask_lumber
+I'd like some lumber please,ask_lumber
+I'd like some lumber,ask_lumber
+I want some lumber,ask_lumber
+I need some lumber,ask_lumber
+Some lumber please,ask_lumber
+I'd like some oak delivered,ask_oak
+I'd like some oak,ask_oak
+I want some oak,ask_oak
+Some oak please,ask_oak
+I need some oak,ask_oak
+Can I get some pine,ask_pine
+I'd like some pine,ask_pine
+I need some pine delivered,ask_pine
+I'd like some pine delivered,ask_pine
+Some pine please,ask_pine
+What kind of wood do you have?,ask_type
+What types of wood do you have,ask_type
+What different kinds of wood do you have,ask_type
+What kind of lumber do you stock,ask_type
+What kind of wood do you stock,ask_type
+What kind of lumber do you have,ask_type
+I'd like some wood please,ask_wood
+I'd like some wood,ask_wood
+I need some wood,ask_wood
+I want some wood,ask_wood
+Can I get some wood,ask_wood
+Some wood please,ask_wood
+my customer id is,customer_id
+my id is,customer_id
+my account number is,customer_id
+my id number is,customer_id
+id is,customer_id
+Hi,greetings
+Hello,greetings
+I need a delivery,greetings
+Hola,greetings
+Hey,greetings
+How much is my order,order_cost
+How much is it altogether,order_cost
+How much do I owe you,order_cost
+What's it going to cost me,order_cost
+How much is it,order_cost
+What's the total price,order_cost
+How much will it cost,order_cost

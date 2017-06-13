@@ -1,0 +1,8 @@
+kind_of_wood,lumber,wood
+kind_of_wood,pine
+kind_of_wood,wood,lumber
+kind_of_wood,oak
+lumber_num,10,ten
+lumber_num,50,fifty
+lumber_num,150,one hundred fifty,one-hundred fifty,one-hundred and fifty
+lumber_num,100,one-hundred,one hundred
