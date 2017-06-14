@@ -85,7 +85,6 @@ app.get('/message', (req, res) => {
                 contexts[indexForContext].context = resp.context;
             }
 
-
             // Sending over to PostgreSQL the the context variables
 
             if (resp.output.nodes_visited[0] === "Order Processing") {
@@ -96,6 +95,7 @@ app.get('/message', (req, res) => {
                 }).then(data => {
                     console.log("Success!");
                 });
+                contexts.splice(indexForContext, 1);
             }
 
             client.messages.create({

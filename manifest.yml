@@ -2,4 +2,4 @@
 applications:
  - name: prolumber-sms-application
    random-route: true
-   memory: 256M
+   memory: 128M
