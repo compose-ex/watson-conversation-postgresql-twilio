@@ -17,7 +17,7 @@ const twilioAuthToken = vcap_services['user-provided'][0].credentials.authToken;
 // Sequelize set up
 const sequelize = new Sequelize(postgresUri);
 
-const Order = sequelize.define('order', {
+const Order = sequelize.define("orders", {
     id: { type: Sequelize.INTEGER, autoIncrement: true, primaryKey: true },
     quantity: Sequelize.INTEGER,
     lumber_type: Sequelize.TEXT,
