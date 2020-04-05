@@ -15,7 +15,7 @@
     "dependencies": {
         "cfenv": "^1.0.4",
         "express": "^4.15.3",
-        "pg": "^6.2.4",
+        "pg": "^6.2.5",
         "sequelize": "^4.0.0",
         "twilio": "^3.3.0",
         "watson-developer-cloud": "^2.32.1"
